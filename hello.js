@@ -7,12 +7,12 @@
     <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="sample"></div>
     <script type="text/babel">
 
       ReactDOM.render(
         <h1>Hello melio!! :-)</h1>,
-        document.getElementById('root')
+        document.getElementById('sample')
       );
 
     </script>
